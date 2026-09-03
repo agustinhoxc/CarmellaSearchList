@@ -1,0 +1,16 @@
+{
+  "name": "nearsite",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Static, modular directory of local businesses with a full mini-site page per business.",
+  "scripts": {
+    "build": "node generator/build.js",
+    "assets": "node generator/make-placeholders.js",
+    "serve": "python3 -m http.server 8000",
+    "clean": "rm -rf categories locations providers tags search about for-business privacy terms index.html 404.html sitemap.xml"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "UNLICENSED"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Nearsite",
+  "legalName": "Nearsite Directory",
+  "tagline": "Find local businesses that show their work.",
+  "description": "Nearsite is a directory of local businesses and service providers. Every listed business gets a real page with services, service area and direct contact.",
+  "url": "https://nearsite.example",
+  "_url_note": "REQUIRED: replace with your real domain before publishing. Used for canonical, Open Graph and sitemap URLs. No trailing slash.",
+  "locale": "en_US",
+  "lang": "en",
+  "country": "US",
+  "contactEmail": "hello@nearsite.example",
+  "contactWhatsapp": "15125550100",
+  "twitterHandle": "",
+  "defaultOgImage": "/assets/og-default.svg",
+  "attributionPhrase": "I found you on Nearsite",
+  "indexRules": {
+    "minProvidersForCityCategoryIndex": 2,
+    "minProvidersForTagIndex": 2,
+    "minProvidersForSubcategoryIndex": 1
+  },
+  "analytics": {
+    "provider": "none",
+    "measurementId": "",
+    "gtmId": "",
+    "metaPixelId": ""
+  }
+}

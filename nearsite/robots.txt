@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+
+# Internal search and filtered views hold no unique content.
+Disallow: /search/
+Disallow: /*?q=
+Disallow: /*?tags=
+Disallow: /*?category=
+Disallow: /*?city=
+Disallow: /admin/
+
+Sitemap: https://nearsite.example/sitemap.xml

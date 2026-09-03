@@ -1,0 +1,537 @@
+[
+  {
+    "id": "bright-ridge-solar",
+    "slug": "bright-ridge-solar",
+    "name": "Bright Ridge Solar",
+    "demo": true,
+    "active": true,
+    "featured": true,
+    "sponsored": false,
+    "verified": false,
+    "category": "solar-energy",
+    "subcategory": "residential-solar-installation",
+    "tags": ["rooftop-solar", "battery-storage", "permit-handling", "free-estimates", "financing-available"],
+    "city": "austin",
+    "state": "TX",
+    "tagline": "Rooftop solar and batteries for Austin homes",
+    "shortDescription": "Residential rooftop installer that handles city permits and Austin Energy interconnection in-house.",
+    "description": [
+      "Bright Ridge Solar designs and installs rooftop photovoltaic systems for single-family homes in Austin and the northern suburbs. Every project starts with a roof inspection and twelve months of your utility bills, because array size should follow actual consumption rather than roof area.",
+      "The company keeps permitting in-house: the city application, the Austin Energy interconnection request and the rebate filing are prepared by the same person who scoped your system, so questions from the reviewer do not bounce back to you. Installations are done by employees rather than subcontracted crews."
+    ],
+    "services": [
+      { "name": "Home solar design and installation", "description": "Site assessment, production modelling, equipment selection and installation for pitched and low-slope residential roofs." },
+      { "name": "Battery backup", "description": "Battery sizing and critical-load panel wiring so selected circuits keep running during an outage." },
+      { "name": "Permits and interconnection", "description": "City permit application, utility interconnection paperwork and rebate filing prepared and tracked through approval." },
+      { "name": "Monitoring and warranty service", "description": "Production monitoring setup and warranty repairs on systems the company installed." }
+    ],
+    "differentials": [
+      "In-house crews, no subcontracted installation labour",
+      "Permitting and utility paperwork handled by the person who designed the system",
+      "Written production estimate in kWh, not just panel count"
+    ],
+    "serviceAreaNote": "Austin, plus Round Rock, Cedar Park, Pflugerville and Georgetown. Projects south of Buda are quoted case by case.",
+    "areasServed": ["Austin", "Round Rock", "Cedar Park", "Pflugerville", "Georgetown"],
+    "address": "",
+    "hours": [
+      { "days": "Monday to Friday", "time": "8:00 – 17:00" },
+      { "days": "Saturday", "time": "By appointment" }
+    ],
+    "whatsapp": "15125550137",
+    "phone": "+1 512-555-0137",
+    "website": "",
+    "instagram": "",
+    "email": "",
+    "googleBusinessProfile": "",
+    "faq": [
+      { "q": "How long does approval take in Austin?", "a": "Permit and interconnection review usually runs three to six weeks. Installation is scheduled once the permit is issued, and the system is energised after the final inspection and utility sign-off." },
+      { "q": "Can you install on a roof that needs replacing?", "a": "Not directly. If the roof has under about five years of life left, the array is quoted after the new roof so panels are not removed and remounted later." },
+      { "q": "What happens if production drops?", "a": "Monitoring alerts are reviewed by the office. Systems installed by Bright Ridge are covered by a workmanship warranty, and the terms are written into the contract." }
+    ],
+    "gallery": [
+      { "file": "01.svg", "alt": "Rooftop photovoltaic array installed on a pitched residential roof" },
+      { "file": "02.svg", "alt": "Wall-mounted inverter and battery unit in a garage" },
+      { "file": "03.svg", "alt": "Installer measuring panel spacing on a roof section" }
+    ],
+    "theme": { "primary": "#1F5E4A", "accent": "#E9A020" }
+  },
+  {
+    "id": "copper-creek-energy",
+    "slug": "copper-creek-energy",
+    "name": "Copper Creek Energy",
+    "demo": true,
+    "active": true,
+    "featured": false,
+    "sponsored": true,
+    "verified": false,
+    "category": "solar-energy",
+    "subcategory": "commercial-solar",
+    "tags": ["rooftop-solar", "battery-storage", "financing-available", "permit-handling"],
+    "city": "austin",
+    "state": "TX",
+    "tagline": "Commercial solar for warehouses, offices and farms",
+    "shortDescription": "Commercial-scale photovoltaic design with production modelling and financing options for Central Texas businesses.",
+    "description": [
+      "Copper Creek Energy works on commercial arrays: flat-roof warehouses, office buildings, cold storage and agricultural structures across Central Texas. Projects typically start at 50 kW.",
+      "Proposals include a production model, a demand-charge analysis against your current billing profile, and the financing structures the company can arrange. The engineering, structural review and interconnection filing are managed as one scope so a single team is accountable through commissioning."
+    ],
+    "services": [
+      { "name": "Commercial rooftop arrays", "description": "Ballasted and mechanically attached systems for flat and low-slope commercial roofs, with structural review included." },
+      { "name": "Ground-mount and canopy systems", "description": "Field arrays and parking canopies where roof area is limited or unsuitable." },
+      { "name": "Commercial battery storage", "description": "Storage sized against demand charges and critical loads, with controls configured for peak shaving." },
+      { "name": "Financing coordination", "description": "Preparation of the documentation lenders and lease providers require, and comparison of the resulting cash flows." }
+    ],
+    "differentials": [
+      "Proposals include a demand-charge analysis, not only annual production",
+      "Structural review carried out before the array layout is fixed",
+      "One project manager from design through commissioning"
+    ],
+    "serviceAreaNote": "Central Texas, with most projects inside a 90-mile radius of Austin.",
+    "areasServed": ["Austin", "San Marcos", "Bastrop", "Taylor", "Marble Falls"],
+    "address": "",
+    "hours": [{ "days": "Monday to Friday", "time": "8:30 – 17:30" }],
+    "whatsapp": "15125550164",
+    "phone": "+1 512-555-0164",
+    "website": "",
+    "instagram": "",
+    "email": "",
+    "googleBusinessProfile": "",
+    "faq": [
+      { "q": "What size projects do you take?", "a": "Typically 50 kW and above. Smaller commercial roofs are referred out rather than quoted." },
+      { "q": "How is a commercial quote structured?", "a": "As installed cost, modelled annual production, and the effect on both energy and demand charges, so it can be compared against your current bills." }
+    ],
+    "gallery": [
+      { "file": "01.svg", "alt": "Ballasted solar array across a flat warehouse roof" },
+      { "file": "02.svg", "alt": "Solar canopy over a commercial parking lot" }
+    ],
+    "theme": { "primary": "#8A4B2A", "accent": "#2F7D8C" }
+  },
+  {
+    "id": "front-range-solar-works",
+    "slug": "front-range-solar-works",
+    "name": "Front Range Solar Works",
+    "demo": true,
+    "active": true,
+    "featured": true,
+    "sponsored": false,
+    "verified": false,
+    "category": "solar-energy",
+    "subcategory": "solar-maintenance",
+    "tags": ["rooftop-solar", "battery-storage", "free-estimates", "spanish-speaking"],
+    "city": "denver",
+    "state": "CO",
+    "tagline": "Solar service and repair across the Front Range",
+    "shortDescription": "Maintenance, hail damage assessment and repair for solar systems, including arrays installed by other companies.",
+    "description": [
+      "Front Range Solar Works services photovoltaic systems in Denver and the surrounding Front Range, including systems whose original installer is no longer trading. Roughly half of the work is inspection and repair rather than new installation.",
+      "Hail assessment is a regular part of the job here. The company documents module damage in the format insurers ask for, and can carry out the replacement once a claim is settled. New installations are taken on for homes where the roof and electrical service are already in good condition."
+    ],
+    "services": [
+      { "name": "System inspection and diagnostics", "description": "Production review, string testing and thermal inspection to find the cause of underperformance." },
+      { "name": "Hail and storm damage assessment", "description": "Documented module and racking assessment prepared for an insurance claim, with photographs and serial records." },
+      { "name": "Repair and module replacement", "description": "Replacement of failed panels, optimisers and inverters, including on arrays installed by other companies." },
+      { "name": "Battery retrofit", "description": "Adding storage to an existing array, including compatibility checks on the current inverter." }
+    ],
+    "differentials": [
+      "Services arrays installed by other companies, including ones no longer in business",
+      "Insurance-ready hail documentation",
+      "Spanish-speaking technicians on service calls"
+    ],
+    "serviceAreaNote": "Denver metro and the Front Range from Fort Collins to Colorado Springs.",
+    "areasServed": ["Denver", "Aurora", "Lakewood", "Boulder", "Colorado Springs", "Fort Collins"],
+    "address": "",
+    "hours": [
+      { "days": "Monday to Friday", "time": "7:30 – 16:30" },
+      { "days": "Saturday", "time": "8:00 – 12:00" }
+    ],
+    "whatsapp": "13035550118",
+    "phone": "+1 303-555-0118",
+    "website": "",
+    "instagram": "",
+    "email": "",
+    "googleBusinessProfile": "",
+    "faq": [
+      { "q": "My installer went out of business. Can you still help?", "a": "Yes. Orphaned systems are a large part of the service work. Manufacturer warranties on the equipment often still apply even when the installer is gone." },
+      { "q": "How is hail damage assessed?", "a": "By module-level inspection with photographs and serial numbers, plus a production comparison before and after the storm, in the format insurers usually request." }
+    ],
+    "gallery": [
+      { "file": "01.svg", "alt": "Technician testing wiring at a rooftop combiner box" },
+      { "file": "02.svg", "alt": "Close-up of a hail-damaged solar module" },
+      { "file": "03.svg", "alt": "Replacement module being lifted into a roof array" }
+    ],
+    "theme": { "primary": "#1C4C7C", "accent": "#D2622E" }
+  },
+  {
+    "id": "ledgerpoint-accounting",
+    "slug": "ledgerpoint-accounting",
+    "name": "Ledgerpoint Accounting",
+    "demo": true,
+    "active": true,
+    "featured": true,
+    "sponsored": false,
+    "verified": false,
+    "category": "accounting",
+    "subcategory": "small-business-bookkeeping",
+    "tags": ["monthly-bookkeeping", "small-business-taxes", "payroll", "evening-hours"],
+    "city": "austin",
+    "state": "TX",
+    "tagline": "Monthly books and tax filing for Austin small businesses",
+    "shortDescription": "Bookkeeping and tax practice working with owner-operated businesses on a flat monthly fee.",
+    "description": [
+      "Ledgerpoint Accounting keeps the monthly books for small businesses in Austin: restaurants, trades, agencies and independent professionals. Work is billed as a flat monthly fee that includes the annual return, so nothing arrives as a surprise invoice in April.",
+      "Clients send documents through a shared folder and get a reconciled set of statements by the tenth of the following month. The same accountant handles your file year-round, which matters when a lender or landlord asks for figures at short notice."
+    ],
+    "services": [
+      { "name": "Monthly bookkeeping", "description": "Transaction categorisation, bank and card reconciliation, and a monthly profit and loss, balance sheet and cash summary." },
+      { "name": "Business tax preparation", "description": "Federal returns for sole proprietors, partnerships, LLCs and S corporations, including quarterly estimate calculations." },
+      { "name": "Payroll", "description": "Pay runs, withholding, contractor payments and year-end forms." },
+      { "name": "Catch-up bookkeeping", "description": "Reconstruction of books that are months or years behind, priced as a one-off project before monthly service starts." }
+    ],
+    "differentials": [
+      "Flat monthly fee that includes the annual business return",
+      "Statements delivered by the tenth of each month",
+      "Same accountant on your file all year"
+    ],
+    "serviceAreaNote": "Austin-based, working with clients across Texas. Meetings in person or by video.",
+    "areasServed": ["Austin", "Round Rock", "San Marcos", "Remote across Texas"],
+    "address": "",
+    "hours": [
+      { "days": "Monday to Thursday", "time": "9:00 – 19:00" },
+      { "days": "Friday", "time": "9:00 – 15:00" }
+    ],
+    "whatsapp": "15125550192",
+    "phone": "+1 512-555-0192",
+    "website": "",
+    "instagram": "",
+    "email": "",
+    "googleBusinessProfile": "",
+    "faq": [
+      { "q": "Which software do you work in?", "a": "Cloud accounting platforms with bank feeds. If you already use one, the practice works in yours rather than migrating you." },
+      { "q": "My books are two years behind. Is that a problem?", "a": "No. Catch-up work is quoted separately as a project, and monthly service starts once the file is current." },
+      { "q": "Do you handle sales tax?", "a": "Yes, for Texas filers, as part of the monthly scope where it applies." }
+    ],
+    "gallery": [
+      { "file": "01.svg", "alt": "Monthly financial statements laid out on a desk" },
+      { "file": "02.svg", "alt": "Accountant reviewing figures on a laptop screen" }
+    ],
+    "theme": { "primary": "#2E3A70", "accent": "#C9A227" }
+  },
+  {
+    "id": "mile-high-books-and-tax",
+    "slug": "mile-high-books-and-tax",
+    "name": "Mile High Books & Tax",
+    "demo": true,
+    "active": true,
+    "featured": false,
+    "sponsored": false,
+    "verified": false,
+    "category": "accounting",
+    "subcategory": "tax-preparation",
+    "tags": ["small-business-taxes", "monthly-bookkeeping", "spanish-speaking", "evening-hours"],
+    "city": "denver",
+    "state": "CO",
+    "tagline": "Tax preparation for individuals and small companies in Denver",
+    "shortDescription": "Denver tax practice handling individual, self-employed and small company returns, in English and Spanish.",
+    "description": [
+      "Mile High Books & Tax prepares individual and business returns for people in Denver, with a focus on self-employed clients whose income comes from several places at once: contract work, rentals, a side business.",
+      "Appointments run into the evening during filing season, and consultations are available in Spanish. The practice also takes on amended returns and responses to notices when a return prepared elsewhere needs correcting."
+    ],
+    "services": [
+      { "name": "Individual tax returns", "description": "Federal and Colorado returns, including self-employment income, rental property and multi-state situations." },
+      { "name": "Business returns", "description": "Partnership, LLC and S corporation filings, with quarterly estimates set for the year ahead." },
+      { "name": "Amended returns and notices", "description": "Correcting prior filings and preparing written responses to tax authority notices." },
+      { "name": "Bookkeeping", "description": "Quarterly or monthly bookkeeping for clients who want the return prepared from clean records." }
+    ],
+    "differentials": [
+      "Consultations and paperwork in Spanish",
+      "Evening appointments during filing season",
+      "Takes on amended returns prepared by other firms"
+    ],
+    "serviceAreaNote": "Denver metro, with remote appointments available across Colorado.",
+    "areasServed": ["Denver", "Aurora", "Lakewood", "Westminster", "Remote across Colorado"],
+    "address": "",
+    "hours": [
+      { "days": "Monday to Friday", "time": "9:00 – 20:00 (January to April)" },
+      { "days": "Monday to Friday", "time": "9:00 – 17:00 (May to December)" }
+    ],
+    "whatsapp": "13035550176",
+    "phone": "+1 303-555-0176",
+    "website": "",
+    "instagram": "",
+    "email": "",
+    "googleBusinessProfile": "",
+    "faq": [
+      { "q": "Can I file an extension through you?", "a": "Yes, including the estimated payment calculation that should accompany it so interest does not build up." },
+      { "q": "Do I need to come in person?", "a": "No. Documents can be sent through a secure upload and the review meeting can be held by video." }
+    ],
+    "gallery": [
+      { "file": "01.svg", "alt": "Tax documents organised in folders on a table" },
+      { "file": "02.svg", "alt": "Client meeting across a desk in a small office" }
+    ],
+    "theme": { "primary": "#4A3A78", "accent": "#D97A3D" }
+  },
+  {
+    "id": "rosewood-renovations",
+    "slug": "rosewood-renovations",
+    "name": "Rosewood Renovations",
+    "demo": true,
+    "active": true,
+    "featured": true,
+    "sponsored": false,
+    "verified": false,
+    "category": "home-renovation",
+    "subcategory": "kitchen-remodeling",
+    "tags": ["older-homes", "permit-handling", "free-estimates", "financing-available"],
+    "city": "portland",
+    "state": "OR",
+    "tagline": "Kitchen remodels in Portland's older houses",
+    "shortDescription": "Design-build contractor specialising in kitchen and whole-floor remodels in pre-1940 Portland homes.",
+    "description": [
+      "Rosewood Renovations remodels kitchens in Portland's older housing stock, where the interesting problems are usually behind the plaster: knob-and-tube wiring, undersized panels, floors that have settled an inch across the room.",
+      "Estimates are itemised with named allowances for tile, fixtures and appliances, so two bids can be compared line by line. Change orders are priced and signed before work continues, and the crew works a fixed schedule so the household knows when the house is theirs again."
+    ],
+    "services": [
+      { "name": "Kitchen remodeling", "description": "Layout changes, cabinetry, counters, lighting and appliance installation, from a refresh to a full gut." },
+      { "name": "Electrical and plumbing upgrades", "description": "Panel upgrades, rewiring of knob-and-tube circuits and supply line replacement carried out as part of the remodel." },
+      { "name": "Structural repair", "description": "Floor levelling, joist sistering and beam work in houses that have settled." },
+      { "name": "Permits and inspections", "description": "Permit applications filed and inspections scheduled by the contractor." }
+    ],
+    "differentials": [
+      "Itemised allowances so competing bids can be compared directly",
+      "Change orders priced and signed before work resumes",
+      "Experienced with knob-and-tube wiring and historic design review"
+    ],
+    "serviceAreaNote": "Portland and inner suburbs. Projects beyond Beaverton and Milwaukie are taken selectively.",
+    "areasServed": ["Portland", "Beaverton", "Milwaukie", "Lake Oswego"],
+    "address": "",
+    "hours": [{ "days": "Monday to Friday", "time": "7:00 – 16:00" }],
+    "whatsapp": "15035550143",
+    "phone": "+1 503-555-0143",
+    "website": "",
+    "instagram": "",
+    "email": "",
+    "googleBusinessProfile": "",
+    "faq": [
+      { "q": "What is the current lead time?", "a": "Kitchen projects are generally booked six to ten weeks out. Design work can start earlier than the build slot." },
+      { "q": "Will I have a working kitchen during the remodel?", "a": "A temporary sink and appliance setup is included in the scope on full gut projects, usually in an adjacent room." },
+      { "q": "Who handles permits?", "a": "The contractor files the permit and schedules inspections. Fees are shown as a separate line in the estimate." }
+    ],
+    "gallery": [
+      { "file": "01.svg", "alt": "Remodelled kitchen with white cabinetry and wood counters" },
+      { "file": "02.svg", "alt": "Kitchen framing exposed during demolition" },
+      { "file": "03.svg", "alt": "Cabinet installation in progress" }
+    ],
+    "theme": { "primary": "#6B3F3F", "accent": "#3F7060" }
+  },
+  {
+    "id": "cedar-and-co-remodeling",
+    "slug": "cedar-and-co-remodeling",
+    "name": "Cedar & Co Remodeling",
+    "demo": true,
+    "active": true,
+    "featured": false,
+    "sponsored": false,
+    "verified": false,
+    "category": "home-renovation",
+    "subcategory": "bathroom-remodeling",
+    "tags": ["accessible-design", "older-homes", "free-estimates", "permit-handling"],
+    "city": "portland",
+    "state": "OR",
+    "tagline": "Bathroom remodels, including step-free and accessible builds",
+    "shortDescription": "Bathroom-focused contractor working on waterproofing, tile and accessible layouts across Portland.",
+    "description": [
+      "Cedar & Co Remodeling only does bathrooms. That narrow focus means the crew is on its own schedule rather than waiting behind a larger project, and most jobs run three to five weeks from demolition to final inspection.",
+      "A growing share of the work is accessible design: curbless showers, blocking for grab bars, wider doorways and step-free entries planned so the room still looks like a bathroom rather than a hospital. Waterproofing is inspected and photographed before tile goes on."
+    ],
+    "services": [
+      { "name": "Full bathroom remodel", "description": "Demolition, waterproofing, tile, fixtures, ventilation and lighting in bathrooms of any size." },
+      { "name": "Accessible bathroom conversion", "description": "Curbless showers, grab bar blocking, widened doorways and comfort-height fixtures planned for long-term use." },
+      { "name": "Tile and waterproofing", "description": "Membrane systems and tile work, documented with photographs before covering." },
+      { "name": "Powder room updates", "description": "Smaller-scope refreshes of half baths, usually completed within a week." }
+    ],
+    "differentials": [
+      "Bathrooms only, so the crew is not shared with larger builds",
+      "Waterproofing photographed before tile is installed",
+      "Accessible layouts designed to look residential, not clinical"
+    ],
+    "serviceAreaNote": "Portland and the east-side suburbs, plus Vancouver, Washington.",
+    "areasServed": ["Portland", "Gresham", "Milwaukie", "Vancouver WA"],
+    "address": "",
+    "hours": [{ "days": "Monday to Friday", "time": "7:30 – 16:30" }],
+    "whatsapp": "15035550188",
+    "phone": "+1 503-555-0188",
+    "website": "",
+    "instagram": "",
+    "email": "",
+    "googleBusinessProfile": "",
+    "faq": [
+      { "q": "How long does a bathroom take?", "a": "Three to five weeks for a full remodel, longer if a fixture on order is delayed. The schedule is agreed before demolition starts." },
+      { "q": "Can a curbless shower go in an older house?", "a": "Usually yes, though it depends on the floor framing. That is checked during the estimate visit before anything is promised." }
+    ],
+    "gallery": [
+      { "file": "01.svg", "alt": "Tiled curbless shower with a linear drain" },
+      { "file": "02.svg", "alt": "Bathroom waterproofing membrane before tiling" }
+    ],
+    "theme": { "primary": "#2F5D50", "accent": "#B7642F" }
+  },
+  {
+    "id": "barton-hills-dental",
+    "slug": "barton-hills-dental",
+    "name": "Barton Hills Dental",
+    "demo": true,
+    "active": true,
+    "featured": false,
+    "sponsored": false,
+    "verified": false,
+    "category": "dental-care",
+    "subcategory": "general-dentistry",
+    "tags": ["same-day-appointments", "evening-hours", "spanish-speaking", "financing-available"],
+    "city": "austin",
+    "state": "TX",
+    "tagline": "Family dentistry in south Austin",
+    "shortDescription": "General dental practice with same-day urgent slots and appointments before and after work.",
+    "description": [
+      "Barton Hills Dental is a general practice treating adults and children in south Austin. Routine care, fillings, crowns and extractions are handled in-house; complex surgical cases are referred with the imaging already prepared.",
+      "The schedule holds slots each morning for urgent problems, and two evenings a week run late for people who cannot leave work during the day. Treatment plans are given in writing with the insurance estimate and the out-of-pocket figure side by side."
+    ],
+    "services": [
+      { "name": "Routine exams and cleanings", "description": "Preventive visits for adults and children, including X-rays where indicated." },
+      { "name": "Fillings and crowns", "description": "Restorative treatment for decay and cracked teeth, with same-visit temporary crowns where possible." },
+      { "name": "Urgent dental visits", "description": "Held slots each morning for pain, swelling and broken teeth." },
+      { "name": "Extractions", "description": "Straightforward extractions in-house; surgical cases referred with imaging prepared." }
+    ],
+    "differentials": [
+      "Urgent slots held every weekday morning",
+      "Written treatment plans showing insurance estimate and out-of-pocket cost together",
+      "Appointments in Spanish"
+    ],
+    "serviceAreaNote": "South Austin, close to Zilker and Barton Hills. Patients come from across the city.",
+    "areasServed": ["Austin"],
+    "address": "1200 Example Ridge Rd, Austin, TX 78704",
+    "hours": [
+      { "days": "Monday and Wednesday", "time": "7:00 – 19:00" },
+      { "days": "Tuesday and Thursday", "time": "8:00 – 17:00" },
+      { "days": "Friday", "time": "8:00 – 13:00" }
+    ],
+    "whatsapp": "15125550155",
+    "phone": "+1 512-555-0155",
+    "website": "",
+    "instagram": "",
+    "email": "",
+    "googleBusinessProfile": "",
+    "faq": [
+      { "q": "Do you take my insurance?", "a": "The practice is in network with several major plans and files claims for out-of-network plans as well. Call with your plan details before booking so the estimate is accurate." },
+      { "q": "What does a first visit include?", "a": "An exam, X-rays where indicated, and a written plan if treatment is needed. A cleaning is usually scheduled at the same visit when time allows." }
+    ],
+    "gallery": [
+      { "file": "01.svg", "alt": "Dental treatment room with chair and equipment" },
+      { "file": "02.svg", "alt": "Reception area of a dental practice" }
+    ],
+    "theme": { "primary": "#1F6A7A", "accent": "#E0803A" }
+  },
+  {
+    "id": "highline-digital",
+    "slug": "highline-digital",
+    "name": "Highline Digital",
+    "demo": true,
+    "active": true,
+    "featured": true,
+    "sponsored": false,
+    "verified": false,
+    "category": "digital-marketing",
+    "subcategory": "local-seo",
+    "tags": ["google-business-profile", "website-build", "free-estimates"],
+    "city": "denver",
+    "state": "CO",
+    "tagline": "Local search work for Denver service businesses",
+    "shortDescription": "Agency focused on Google Business Profile, local landing pages and websites for trades and clinics.",
+    "description": [
+      "Highline Digital works with service businesses that sell within a driving radius: trades, clinics, repair shops. The work is mostly unglamorous and measurable, which is the point — profile completeness, location pages that answer real questions, consistent business information across the directories that feed Maps.",
+      "Engagements start with a two-week audit that produces a prioritised list. Clients own their accounts, domains and analytics properties throughout, and everything transfers on request without a handover fee."
+    ],
+    "services": [
+      { "name": "Local search audit", "description": "Two-week review of profile, website, listings and competitors, delivered as a prioritised action list." },
+      { "name": "Google Business Profile management", "description": "Setup, verification, category and service configuration, photos, posts and review response workflow." },
+      { "name": "Location page development", "description": "Service and city pages written for real search intent rather than keyword permutations." },
+      { "name": "Website builds", "description": "Fixed-scope small business websites built for speed and conversion tracking." }
+    ],
+    "differentials": [
+      "Clients own their ad accounts, domains and analytics from day one",
+      "Audit first, retainer only if the work justifies it",
+      "No automated location pages built from city lists"
+    ],
+    "serviceAreaNote": "Denver-based, working with clients throughout Colorado and remotely elsewhere in the US.",
+    "areasServed": ["Denver", "Boulder", "Colorado Springs", "Remote across the US"],
+    "address": "",
+    "hours": [{ "days": "Monday to Friday", "time": "9:00 – 17:00" }],
+    "whatsapp": "13035550129",
+    "phone": "+1 303-555-0129",
+    "website": "",
+    "instagram": "",
+    "email": "",
+    "googleBusinessProfile": "",
+    "faq": [
+      { "q": "Is there a minimum contract?", "a": "The audit is a fixed-price project. Ongoing work runs month to month with 30 days' notice." },
+      { "q": "What gets reported?", "a": "Calls, direction requests and form submissions attributed to source, alongside ranking movement. Reports are sent monthly and reviewed on a call." }
+    ],
+    "gallery": [
+      { "file": "01.svg", "alt": "Local search performance dashboard on a monitor" },
+      { "file": "02.svg", "alt": "Team reviewing a website layout on a whiteboard" }
+    ],
+    "theme": { "primary": "#243B6B", "accent": "#E2B33C" }
+  },
+  {
+    "id": "riverbank-media",
+    "slug": "riverbank-media",
+    "name": "Riverbank Media",
+    "demo": true,
+    "active": true,
+    "featured": false,
+    "sponsored": false,
+    "verified": false,
+    "category": "digital-marketing",
+    "subcategory": "paid-advertising",
+    "tags": ["website-build", "google-business-profile", "evening-hours"],
+    "city": "portland",
+    "state": "OR",
+    "tagline": "Paid campaigns for small budgets that need to work",
+    "shortDescription": "Portland agency running search and social advertising for businesses spending under $10k a month.",
+    "description": [
+      "Riverbank Media runs paid search and social campaigns for small businesses, most of them spending between one and ten thousand dollars a month on media. At that size the biggest wins usually come from conversion tracking that is actually correct and from turning off what is not working quickly.",
+      "Campaign setup includes tracking implementation, and the media budget is always invoiced separately from the agency fee so the split stays visible. Evening calls are available for owners who cannot talk during the working day."
+    ],
+    "services": [
+      { "name": "Campaign setup", "description": "Account structure, keyword and audience research, ad creative and landing page recommendations." },
+      { "name": "Conversion tracking", "description": "Implementation and verification of call, form and purchase tracking before spend starts." },
+      { "name": "Ongoing campaign management", "description": "Budget pacing, bid adjustments, creative testing and monthly reporting." },
+      { "name": "Landing pages", "description": "Focused pages built for specific campaigns rather than sending traffic to a homepage." }
+    ],
+    "differentials": [
+      "Media budget invoiced separately from the agency fee",
+      "Tracking verified before any spend starts",
+      "Evening calls available for owner-operators"
+    ],
+    "serviceAreaNote": "Portland metro and remote clients across the Pacific Northwest.",
+    "areasServed": ["Portland", "Salem", "Vancouver WA", "Remote across the Pacific Northwest"],
+    "address": "",
+    "hours": [
+      { "days": "Monday to Thursday", "time": "9:00 – 19:00" },
+      { "days": "Friday", "time": "9:00 – 16:00" }
+    ],
+    "whatsapp": "15035550171",
+    "phone": "+1 503-555-0171",
+    "website": "",
+    "instagram": "",
+    "email": "",
+    "googleBusinessProfile": "",
+    "faq": [
+      { "q": "What is the minimum media budget?", "a": "Around one thousand dollars a month. Below that, the recommendation is usually to fix the website and profile first." },
+      { "q": "Who owns the ad account?", "a": "You do. Accounts are created under your business and access is granted to the agency, not the other way around." }
+    ],
+    "gallery": [
+      { "file": "01.svg", "alt": "Advertising campaign metrics displayed on a laptop" },
+      { "file": "02.svg", "alt": "Landing page wireframes printed on a desk" }
+    ],
+    "theme": { "primary": "#3B5A4A", "accent": "#C4642F" }
+  }
+]

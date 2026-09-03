@@ -1,0 +1,44 @@
+[
+  {
+    "state": "TX",
+    "name": "Texas",
+    "slug": "texas",
+    "intro": "Texas listings on Nearsite currently cover the Austin metro. Each business below sets its own service radius, so check the service area section on its page before assuming a suburb is covered.",
+    "cities": [
+      {
+        "name": "Austin",
+        "slug": "austin",
+        "intro": "Austin businesses on Nearsite work across the central city and the suburbs along the I-35 and MoPac corridors. Rooftop solar and remodeling work here often involves HOA review and city permitting, so the pages note who handles that paperwork.",
+        "neighborhoodsServed": ["Downtown", "East Austin", "South Congress", "Mueller", "Round Rock", "Cedar Park"]
+      }
+    ]
+  },
+  {
+    "state": "CO",
+    "name": "Colorado",
+    "slug": "colorado",
+    "intro": "Colorado listings currently cover Denver and the nearer Front Range suburbs. Altitude, snow load and hail are practical factors here, and several businesses address them directly on their pages.",
+    "cities": [
+      {
+        "name": "Denver",
+        "slug": "denver",
+        "intro": "Denver businesses on Nearsite serve the city and the surrounding Front Range. Hail seasons and snow load shape a lot of the work, from roof-mounted equipment to insurance paperwork.",
+        "neighborhoodsServed": ["Capitol Hill", "Highlands", "Baker", "Park Hill", "Lakewood", "Aurora"]
+      }
+    ]
+  },
+  {
+    "state": "OR",
+    "name": "Oregon",
+    "slug": "oregon",
+    "intro": "Oregon listings currently cover Portland and its immediate suburbs. Much of the housing stock is pre-1940, which affects renovation scope, permitting and timelines.",
+    "cities": [
+      {
+        "name": "Portland",
+        "slug": "portland",
+        "intro": "Portland businesses on Nearsite work across the east and west sides of the river. Older homes are common, so contractors here describe how they handle knob-and-tube wiring, settled floors and historic design review.",
+        "neighborhoodsServed": ["Alberta", "Sellwood", "Hawthorne", "St. Johns", "Beaverton", "Milwaukie"]
+      }
+    ]
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "slug": "battery-storage",
+    "name": "Battery storage",
+    "description": "Businesses that size, install or service home and commercial batteries alongside a solar array, including backup wiring for the circuits you want to keep running during an outage.",
+    "relatedCategories": ["solar-energy"]
+  },
+  {
+    "slug": "rooftop-solar",
+    "name": "Rooftop solar",
+    "description": "Photovoltaic arrays mounted on an existing roof rather than on the ground. Roof age, pitch and material all affect what can be installed, so these businesses typically inspect before quoting.",
+    "relatedCategories": ["solar-energy"]
+  },
+  {
+    "slug": "permit-handling",
+    "name": "Permit handling",
+    "description": "Businesses that file building, electrical or utility paperwork on your behalf instead of leaving it with you. Useful when a project needs city inspection or utility approval before it can be energised or occupied.",
+    "relatedCategories": ["solar-energy", "home-renovation"]
+  },
+  {
+    "slug": "free-estimates",
+    "name": "Free estimates",
+    "description": "Businesses that will scope your job and quote it without charging for the visit. Some cap this at a service radius or a project type, which is noted on each page.",
+    "relatedCategories": []
+  },
+  {
+    "slug": "spanish-speaking",
+    "name": "Spanish-speaking staff",
+    "description": "Businesses with staff who handle appointments, quotes and paperwork in Spanish, not only a translated website.",
+    "relatedCategories": []
+  },
+  {
+    "slug": "small-business-taxes",
+    "name": "Small business taxes",
+    "description": "Firms that prepare and file returns for sole proprietors, partnerships, LLCs and S corporations, and that can advise on entity choice and quarterly estimates.",
+    "relatedCategories": ["accounting"]
+  },
+  {
+    "slug": "monthly-bookkeeping",
+    "name": "Monthly bookkeeping",
+    "description": "Ongoing categorisation and reconciliation on a monthly cycle, usually with a set of reports at month end, as opposed to a once-a-year clean-up.",
+    "relatedCategories": ["accounting"]
+  },
+  {
+    "slug": "payroll",
+    "name": "Payroll",
+    "description": "Running pay cycles, withholding and filings for businesses with employees or contractors.",
+    "relatedCategories": ["accounting"]
+  },
+  {
+    "slug": "older-homes",
+    "name": "Older homes",
+    "description": "Contractors experienced with pre-war construction: knob-and-tube wiring, plaster walls, settled framing and historic design review.",
+    "relatedCategories": ["home-renovation"]
+  },
+  {
+    "slug": "accessible-design",
+    "name": "Accessible design",
+    "description": "Work planned around mobility needs: curbless showers, grab bar blocking, door widths and step-free entries.",
+    "relatedCategories": ["home-renovation"]
+  },
+  {
+    "slug": "same-day-appointments",
+    "name": "Same-day appointments",
+    "description": "Practices and businesses that hold slots for urgent cases and can usually see you the day you call.",
+    "relatedCategories": ["dental-care"]
+  },
+  {
+    "slug": "evening-hours",
+    "name": "Evening hours",
+    "description": "Businesses open past 5pm on at least one weekday, for people who cannot take time off during the day.",
+    "relatedCategories": []
+  },
+  {
+    "slug": "google-business-profile",
+    "name": "Google Business Profile",
+    "description": "Agencies that set up, verify and maintain the profile that shows your business in Google Maps and local search results.",
+    "relatedCategories": ["digital-marketing"]
+  },
+  {
+    "slug": "website-build",
+    "name": "Website build",
+    "description": "Agencies that build or rebuild a website as a fixed-scope project rather than only running campaigns on top of an existing one.",
+    "relatedCategories": ["digital-marketing"]
+  },
+  {
+    "slug": "financing-available",
+    "name": "Financing available",
+    "description": "Businesses that offer payment plans or work with a lending partner so a project does not have to be paid upfront.",
+    "relatedCategories": ["solar-energy", "home-renovation", "dental-care"]
+  }
+]

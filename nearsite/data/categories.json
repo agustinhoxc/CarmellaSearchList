@@ -1,0 +1,197 @@
+[
+  {
+    "id": "solar-energy",
+    "slug": "solar-energy",
+    "name": "Solar energy",
+    "pluralNoun": "solar companies",
+    "icon": "sun",
+    "featured": true,
+    "shortDescription": "Companies that design, install and maintain photovoltaic systems for homes and businesses.",
+    "intro": "Solar work is part engineering, part paperwork. A good installer sizes the array to how much power you actually use, handles the utility interconnection application, and stays reachable when a panel underperforms three winters later.\n\nThe companies below list the equipment they install, the roof types they work on, and whether they handle permits and rebate filings for you. Compare what each one covers before you ask for a quote.",
+    "buyerNotes": [
+      "Ask who files the interconnection and permit paperwork, and how long approval usually takes in your city.",
+      "A quote should state panel and inverter brands, expected annual production in kWh, and what the workmanship warranty covers.",
+      "If you are adding a battery, confirm which loads stay powered during an outage."
+    ],
+    "faq": [
+      {
+        "q": "How long does a residential solar installation take?",
+        "a": "The install itself is usually one to three days. The longer part is permitting and utility approval, which the companies here describe on their own pages because it varies by city and utility."
+      },
+      {
+        "q": "Do I need a battery?",
+        "a": "Only if you want backup power during outages or your utility pays little for exported energy. Several companies on this page quote panels and batteries separately so you can compare both."
+      }
+    ],
+    "relatedCategories": ["home-renovation"],
+    "subcategories": [
+      {
+        "slug": "residential-solar-installation",
+        "name": "Residential solar installation",
+        "description": "Rooftop and ground-mount photovoltaic systems for single-family homes, including permitting and utility interconnection."
+      },
+      {
+        "slug": "commercial-solar",
+        "name": "Commercial solar",
+        "description": "Larger arrays for warehouses, offices and agricultural buildings, usually with production modelling and financing options."
+      },
+      {
+        "slug": "solar-maintenance",
+        "name": "Solar maintenance and repair",
+        "description": "Inspection, cleaning, monitoring and repair of systems that were installed by someone else."
+      }
+    ]
+  },
+  {
+    "id": "accounting",
+    "slug": "accounting",
+    "name": "Accounting",
+    "pluralNoun": "accounting firms",
+    "icon": "ledger",
+    "featured": true,
+    "shortDescription": "Bookkeepers, tax preparers and accountants working with individuals and small businesses.",
+    "intro": "Most people look for an accountant twice: when a business starts, and when a deadline is close. Both are easier if you know upfront which software the firm works in, who signs the return, and how they charge.\n\nEach firm below lists the entity types it handles, the months it is busiest, and how it prefers to receive documents.",
+    "buyerNotes": [
+      "Ask whether the fee is monthly, hourly or per return, and what happens if the return needs an amendment.",
+      "Check which bookkeeping software the firm supports before you commit to one.",
+      "For a new company, confirm who is responsible for filing deadlines: you or the firm."
+    ],
+    "faq": [
+      {
+        "q": "What should I bring to a first meeting?",
+        "a": "Last year's return, current bank and card statements, and payroll records if you have employees. Firms that need anything else say so on their own page."
+      },
+      {
+        "q": "Can accounting be handled remotely?",
+        "a": "Most of it can. The listings note whether a firm works entirely remotely, in person, or both."
+      }
+    ],
+    "relatedCategories": ["digital-marketing"],
+    "subcategories": [
+      {
+        "slug": "small-business-bookkeeping",
+        "name": "Small business bookkeeping",
+        "description": "Monthly categorisation, reconciliation and reporting for owner-operated businesses."
+      },
+      {
+        "slug": "tax-preparation",
+        "name": "Tax preparation",
+        "description": "Preparation and filing of individual and business returns, including extensions and amended returns."
+      }
+    ]
+  },
+  {
+    "id": "home-renovation",
+    "slug": "home-renovation",
+    "name": "Home renovation",
+    "pluralNoun": "renovation contractors",
+    "icon": "hammer",
+    "featured": true,
+    "shortDescription": "General contractors and remodelers for kitchens, bathrooms and whole-house projects.",
+    "intro": "Renovation quotes are hard to compare because no two contractors scope a job the same way. The useful questions are who draws the plans, who pulls the permit, and what the contract does when something behind the wall turns out to be worse than expected.\n\nThe contractors below describe the project sizes they take on and how they structure estimates and change orders.",
+    "buyerNotes": [
+      "Ask for the allowance amounts in the estimate, tile and fixtures included, so two bids can be compared line by line.",
+      "Confirm who lives with the mess: working hours, dust control and whether the kitchen stays usable.",
+      "Older houses often need electrical or plumbing brought up to code as part of the permit."
+    ],
+    "faq": [
+      {
+        "q": "How far ahead should I book a remodeler?",
+        "a": "Kitchen and bathroom projects are commonly booked one to three months out. Each contractor lists its current lead time on its own page."
+      },
+      {
+        "q": "Do I need permits for a bathroom remodel?",
+        "a": "Usually yes once plumbing or electrical is moved. Contractors here note whether permit handling is included in their price."
+      }
+    ],
+    "relatedCategories": ["solar-energy"],
+    "subcategories": [
+      {
+        "slug": "kitchen-remodeling",
+        "name": "Kitchen remodeling",
+        "description": "Layout changes, cabinetry, counters and appliance installation, from refresh to full gut."
+      },
+      {
+        "slug": "bathroom-remodeling",
+        "name": "Bathroom remodeling",
+        "description": "Tile, fixtures, waterproofing and accessibility work in bathrooms of any size."
+      }
+    ]
+  },
+  {
+    "id": "dental-care",
+    "slug": "dental-care",
+    "name": "Dental care",
+    "pluralNoun": "dental practices",
+    "icon": "tooth",
+    "featured": true,
+    "shortDescription": "Dental practices offering routine care, restorative treatment and orthodontics.",
+    "intro": "Choosing a practice usually comes down to three practical things: whether they take your insurance, how quickly they can see you when something hurts, and whether the office hours fit around work or school.\n\nThe practices listed here state their treatment focus, languages spoken and appointment availability.",
+    "buyerNotes": [
+      "Call to confirm your specific plan is accepted, not just the insurer's name.",
+      "Ask what a first visit includes and whether X-rays are billed separately.",
+      "If you need an urgent appointment, check the practice's same-day policy rather than assuming."
+    ],
+    "faq": [
+      {
+        "q": "How often should I have a check-up?",
+        "a": "Every six months is the common recommendation, adjusted by your dentist based on your history. Practices here list what a routine visit covers."
+      },
+      {
+        "q": "Can I be seen the same day for pain?",
+        "a": "Some practices hold slots for urgent cases. Where that applies, it is noted on the practice's page."
+      }
+    ],
+    "relatedCategories": [],
+    "subcategories": [
+      {
+        "slug": "general-dentistry",
+        "name": "General dentistry",
+        "description": "Cleanings, fillings, crowns and routine preventive care for adults and children."
+      },
+      {
+        "slug": "orthodontics",
+        "name": "Orthodontics",
+        "description": "Braces, aligners and bite correction for teenagers and adults."
+      }
+    ]
+  },
+  {
+    "id": "digital-marketing",
+    "slug": "digital-marketing",
+    "name": "Digital marketing",
+    "pluralNoun": "marketing agencies",
+    "icon": "signal",
+    "featured": true,
+    "shortDescription": "Agencies and consultants working on local search, advertising and websites for small businesses.",
+    "intro": "Small businesses rarely need a full agency retainer. More often they need a working website, a Google Business Profile that is actually filled in, and someone watching the ad spend.\n\nThe agencies below say which services they sell separately, what their minimum engagement is, and what reporting you get.",
+    "buyerNotes": [
+      "Ask who owns the ad accounts, domain and analytics property when the contract ends.",
+      "Separate the media budget from the agency fee before comparing proposals.",
+      "For local search, ask what they will change in the first month and how it will be measured."
+    ],
+    "faq": [
+      {
+        "q": "What is local SEO?",
+        "a": "Work aimed at showing up when people nearby search for what you sell, mostly through your Google Business Profile, your website's location pages and consistent business information across directories."
+      },
+      {
+        "q": "Is there a minimum contract?",
+        "a": "It varies. Each agency states its minimum engagement and notice period on its own page."
+      }
+    ],
+    "relatedCategories": ["accounting"],
+    "subcategories": [
+      {
+        "slug": "local-seo",
+        "name": "Local SEO",
+        "description": "Google Business Profile management, local landing pages and directory consistency work."
+      },
+      {
+        "slug": "paid-advertising",
+        "name": "Paid advertising",
+        "description": "Search and social campaign setup, budget management and conversion tracking."
+      }
+    ]
+  }
+]
